@@ -1,2 +1,0 @@
-# PIAIC
-Artificial Intelligence Course
